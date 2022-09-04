@@ -1,8 +1,10 @@
-### Hi there 👋
+### Isabelle
 ![alt text](dog.JPG)
 Hi my name is Isabelle. I'm 16 years old. I go to ACS and i have been living in Jordan for almost 4 years. I love animals such as my dog Snowy. My favorite hobby is horse riding. I love ice coffee and binge watching tv shows. 
 [dog](https://www.google.com/search?q=dog&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiB3cm0hPv5AhW2VvEDHaZ_DVcQ_AUoAXoECAEQBA&biw=1440&bih=796&dpr=1#imgrc=SMMlmWDadP14fM)
-Alternatively, for H1 and H2, an underline-ish style: Isabelle
+
+
+----
 <!--
 **isabellevanvliet/isabellevanvliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
