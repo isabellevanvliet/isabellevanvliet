@@ -7,6 +7,7 @@ Hi my name is Isabelle. I'm 16 years old. I go to ACS and i have been living in 
 ~Snowy~ 
 ----
 <!--
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 **isabellevanvliet/isabellevanvliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
