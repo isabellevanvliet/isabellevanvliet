@@ -8,8 +8,12 @@ Hi my name is Isabelle. I'm 16 years old. I go to ACS and i have been living in 
 1. snowy
 2. isabelle
 ----
-var s = "JavaScript syntax highlighting";
-alert(s); snowy!
+| Snowy        | isabelle           |   |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
 <!--
 **isabellevanvliet/isabellevanvliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
