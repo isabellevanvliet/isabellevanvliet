@@ -5,7 +5,8 @@ Hi my name is Isabelle. I'm 16 years old. I go to ACS and i have been living in 
 **this is snowy my dog**
 [^note]:snowy is the best!
 ~Snowy~ 
-1. snoowy
+1. snowy
+2. isabelle
 ----
 <!--
 **isabellevanvliet/isabellevanvliet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
